@@ -2,6 +2,9 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+![eval_results](https://github.com/user-attachments/assets/b3958942-c523-473a-b8d0-de4ff928232b)
+
+
 # Competitive programming eval
 Problems are taken from Kazakhstan's 2024 regional and national informatics olympiads. This selection is a good choice because the problems are relatively new, originally available only in Russian, and unlikely to have been crawled online since they are shared exclusively in a private group. Moreover, no public editorials or solutions exist, so no overfitting. Problems are sorted by difficulty groups, A is the easiest, B is slightly harder, C is the hardest.
 
